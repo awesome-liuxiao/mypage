@@ -21,8 +21,8 @@
 title: Liu, Xiao's web page
 email: lio4072@hotmail.com
 description: Never stop being curious
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://awesome-liuxiao.github.io/mypage/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://awesome-liuxiao.github.io/mypage" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lio4072
 github_username:  awesome-liuxiao
 
