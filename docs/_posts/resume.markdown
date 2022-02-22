@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "My Résumé"
+date:   2022-02-10 16:14:55 +0900
+categories: jekyll update
+---
+This is a web version of my Résumé. I will keep updating new works that I have achieved.
+
+**Projects**
+- Undergraduate
+    - Main contributor of senior capstone project "A Web Based Pet Hospital Management System"
+    - Team leader of graduate project "spatial data analysis on real time soccer game".
+- Graduate
+    - CQx: A code quality detector for programming assignments
+    - CodeHelper: Web-based e-mentoring IDE
+    - Main contributor and developer of [NeoESPA](http://neoespa.pusan.ac.kr): an online programming assignments evaluation system
+    - Techniques for avoiding packer detecting tools on packed PEs
+    - C# program de-obfuscation technique
+    - ARM binaries to LLVM IR code translator.
+    - Haskell based Web application: YesWeb.
+    - GDB optimizing and porting for SoC.
+- Open source projects
+    - [Github](https://github.com/awesome-liuxiao)
+
+
+**Publications**
+- CQpy: A Handy Code Quality Inspector for Online Python Programming Courses. _International Journal of Engineering Education (IJEE)_, vol. 37(6), 2021
+- CodeHelper: A Web-Based Lightweight IDE for E-Mentoring in Online Programming Courses. _ICCCI 2021_
+- Analyzing the Code Quality Issues in Java Programming Assignments. _IEIE Summer Conf. 2020_
+- Applying Code Quality Detection in Online Programming Judge. _ICIIT 2020_
+- Using SonarQube to Evaluate the Code Quality of C/C++. _KCC 2019_
+- A Partial Grading Method Using Pattern Matching for Programming Assignments. _ICASI 2019_
+- Using SonarQube to Enhance the Accuracy of Programming Assignment Evaluation. _INTED 2019_
+- YapuresPlus: An Optimized Efficient Framework to Guarantee Safety of JavaScript. _ICIIT 2019_
+- Yapures: A Convenient Framework for Writing Safe JavaScript Code. _KCC 2018_
+- Analysis of the Parallel Programming Model in Haskell for Many-Core Systems. _ICASI 2018_
+- Analyzing Obfuscated .NET Programs Using Debugging Tools. _IWCIT 2017_
+- YesWeb: A Concise Web Development Framework Based on Haskell. _JATIT Vol.95 No. 18, Sept 30, 2017_
+- CDLint: A Cloud Service for Dynamic Analysis of JavaScript Code. _KIPS 2017 spring_
+- YesWeb: A Concise Web Development Framework Based on Haskell. _ICCCA 2016_
+- An Integrated FTP Supported RWD Web Development System. _KCC 2015_
+- GCaaS: A Light-weight Grid Computing Web Application. _KIPS 2015 spring_
+- NeoESPA -A New Evaluation System for Programming Assignments. _ICEIC 2015_
+
+**Adwards**
+- Best oral presentation. _ICIIT 2019_
+- Best Paper Presentation. _KCC 2018_
+
+**Skills**
+- Speaking languages: Chinese (Mandarin), English, Korean
+- Programming
+    - Web front-end programming (HTML, JavaScript, CSS, etc.)
+    - Web back-end programming (PHP, Python, Node.js, Django)
+    - C/C++, Java, Haskell
+    - Familiar with Linux operating systems and shell scripts
+
+**Professional memberships**
+- ACM student membership (2017)
+- IEEE student membership (2018)
+
+**Academic Events**
+- ESSoS17&DIMVA2017, Bonn, Germany
+- ACIT2018, Czech budejovice, Czech Republic
+- IHMMSEC2019, Paris, France
+
+**Teaching Assistant (TA)**
+- C Programming (2021, Summer semester)
+- C++ Programming (2021, spring semester)
+- Data Structure (2020, fall semester)
+- Introduction to Computer Programming (Python) (2020, spring semester)
+- Compilers (2019, fall semester)
+- Introduction to Computer System (a.k.a Python) (2019, spring semester)
+- Advanced C programming (2018, winter school)
+- Compilers (2018, fall semester)
+- Advanced compiler construction (2018, spring semester, graduate course)
+- Introdunction to Computer System (a.k.a Python) (2018, spring semester)
+- Platform Based Programming (a.k.a Java) (2017, fall semester)
+- C/C++ programming (2017, spring semester)
+- Operating Systems (2016, fall semester)
