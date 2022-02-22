@@ -13,7 +13,7 @@ I recieved my Bachelor of Engineering degree at 2014, then devoted myself to the
 
 **My works**
 
-Nowadays, I'm a postdoctora researcher at [Programming Languages Lab.](pl.pusan.ac.kr) in the Dept. of [Electrical and Computer Engineering](http://uwcms.pusan.ac.kr/user/cseeng/index.action) of PNU. My advisor is [Professor Gyun Woo](http://pl.pusan.ac.kr/~woogyun/) who is an outstanding expert at PLT and Compilers.
+Nowadays, I'm a postdoctoral researcher at [Programming Languages Lab.](pl.pusan.ac.kr) in the Dept. of [Electrical and Computer Engineering](http://uwcms.pusan.ac.kr/user/cseeng/index.action) of PNU. My advisor is [Professor Gyun Woo](http://pl.pusan.ac.kr/~woogyun/) who is an outstanding expert at PLT and Compilers.
 My research interests are Web development, Data & Program analysis, and cloud computing. My [Github](https://github.com/awesome-liuxiao) repositories cotain my on going works and projects. The papers I've published are collected on [My ResearchGate](https://www.researchgate.net/profile/Xiao_Liu72), my DOI is [0000-0003-3480-3250](https://orcid.org/0000-0003-3480-3250).
 
 **Résumé**
