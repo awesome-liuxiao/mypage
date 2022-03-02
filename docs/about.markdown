@@ -9,7 +9,7 @@ I was born in [ZhangYe](https://en.wikipedia.org/wiki/Zhangye) which is a small 
 I spent 19 years at ZhangYe with my family untill I graduated from high school.
 Then I came to [Pusan National University (PNU)](http://english.pusan.ac.kr/uPNU_homepage/en/default.asp) at Busan in South Korea in 2009.
 During 2009 to 2010, I spent one year on studying Korean and applied Computer Science as my major for undergraduate at PNU.
-I recieved my Bachelor of Engineering degree at 2014, then devoted myself to the master&PhD integrated program in the CS department of PNU. A master degree as a middle degree was given to me at 2019 and I got my PhD degree at Feb. 2022.
+I recieved my Bachelor of Engineering degree in 2014, then devoted myself to the master&PhD integrated program in the CS department of PNU. A master degree as a middle degree was given to me in 2019 and I got my PhD degree in Feb. 2022.
 
 **My works**
 
