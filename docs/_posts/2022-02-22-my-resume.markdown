@@ -22,6 +22,10 @@ This is a web version of my Résumé. I will keep updating new works that I have
 - Open source projects
     - [Github](https://github.com/awesome-liuxiao)
 
+**Dissertation**
+- Title: Automatic Assessment and Collaborative Mentoring System for Programming Education
+- Supervisor: Prof. Woo, Gyun
+- Committee members: Prof. Lee, DoHoon (Chiar), Prof. Yoo, Younghwan, Prof. Cho, Hwan-Gue, Prof. Byun, Sugwoo, and Prof. Woo, Gyun
 
 **Publications**
 - CQpy: A Handy Code Quality Inspector for Online Python Programming Courses. _International Journal of Engineering Education (IJEE)_, vol. 37(6), 2021
